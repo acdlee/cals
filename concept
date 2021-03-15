@@ -1,0 +1,10 @@
+concept:
+
+
+track calories on a weekly basis
+
+tracker object will deal with a weak's calories in/out
+
+can save each week's numbers and view monthly
+
+each week should have calorie +/- for a day
